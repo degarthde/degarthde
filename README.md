@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diego Arturo Hernandez Fuentes
+- 👀 I’m interested in frontend development and also implmement backend frameworks
+- 🌱 I’m currently learning NestJS and Spring Boot
+- 💞️ I’m looking to collaborate on interested projects
+- 📫 How to reach me (here)[mailto:dhernandez@altimetrik.com]
